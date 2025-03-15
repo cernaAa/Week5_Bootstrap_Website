@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -17,5 +16,8 @@
     "url": "https://github.com/cernaAa/Week5_Bootstrap_Website/issues"
   },
   "homepage": "https://github.com/cernaAa/Week5_Bootstrap_Website#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
